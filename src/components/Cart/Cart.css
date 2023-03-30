@@ -1,0 +1,22 @@
+.cart-summery {
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.cart-summery p {
+    font-size: 17px;
+}
+
+.cart-summery h6 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+
+    color: #0E161A;
+
+}
